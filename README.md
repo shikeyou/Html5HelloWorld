@@ -1,6 +1,6 @@
 #HTML5 Hello World
 
-This is project 0 for Udacity's Front-End Web Developer Nanodegree.
+This is Project 0 for Udacity's Front-End Web Developer Nanodegree.
 
 Main objective of this project:
 
